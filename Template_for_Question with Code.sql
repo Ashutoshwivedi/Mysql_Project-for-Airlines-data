@@ -1,10 +1,4 @@
-/* IMPORTANT INSTRUCTIONS FOR LEARNERS
-1) DO NOT CHANGE THE ORDER OF COLUMNS.
-2) YOUR QUERY SHOULD DISPLAY COLUMNS IN THE SAME ORDER AS MENTIONED IN ALL QUESTIONS.
-3) YOU CAN FIND THE ORDER OF COLUMNS IN QUESTION TEMPLATE SECTION OF EACH QUESTION.
-4) USE ALIASING AS MENTIONED IN QUESTION TEMPLATE FOR ALL COLUMNS
-5) DO NOT CHANGE COLUMN NAMES*/
-                   
+                
 -- Question 1 (Marks: 3)
 -- Objective: Determine, for flights that actually departed later than scheduled, what the departure delay is (in minutes).
 -- Calculate the Delay in Departures for Delayed Flights
